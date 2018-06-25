@@ -13,7 +13,7 @@
 ### Requirements
 
 - MDS Arm 보드
-
+- Uart 케이블
   
 
 ## License
